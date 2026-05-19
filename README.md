@@ -1,4 +1,4 @@
-# Particle simulation in tokamak reactor
+# Particle simulation in a tokamak reactor
 ## functions
 Some of the functions that are used for the other files.
 ## field_visualizer
